@@ -6,6 +6,7 @@ Welcome to my self study resources for [Introduction to Algorithms e3](https://m
 
 * Chapter 3
   * [Chpater 3.2 Notes (Notebook)](./chapter_03/c03s02_notes.ipynb)
+  * [Chpater 3.2 Exercises (Notebook)](./chapter_03/c03s02_exercises.ipynb)
 
 ## Python
 
