@@ -10,7 +10,7 @@ Welcome to my self study resources for [Introduction to Algorithms e3](https://m
 
 ## Python
 
-Setting up a Python virtual environment, from the root of this project:
+To set up a Python virtual environment, from the root of this project:
 
 ```
 python3 -m venv venv
